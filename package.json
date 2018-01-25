@@ -31,10 +31,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KSXGitHub/advanced-compare.git"
+    "url": "git+https://github.com/ksxnodemodules/advanced-compare.git"
   },
   "bugs": {
-    "url": "https://github.com/KSXGitHub/advanced-compare/issues"
+    "url": "https://github.com/ksxnodemodules/advanced-compare/issues"
   },
-  "homepage": "https://github.com/KSXGitHub/advanced-compare#readme"
+  "homepage": "https://github.com/ksxnodemodules/advanced-compare#readme"
 }
