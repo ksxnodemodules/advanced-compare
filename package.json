@@ -22,5 +22,19 @@
     "clean": "bash 'sh/clean.sh'",
     "fix": "bash 'sh/fix.sh'",
     "test": "bash 'sh/test.sh'"
-  }
+  },
+  "name": "advanced-compare",
+  "description": "Comparing arrays, objects and more using custom functions",
+  "keywords": [
+    "compare"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSXGitHub/advanced-compare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KSXGitHub/advanced-compare/issues"
+  },
+  "homepage": "https://github.com/KSXGitHub/advanced-compare#readme"
 }
