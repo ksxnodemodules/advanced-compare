@@ -2,6 +2,7 @@
 *.log
 quick-test
 test
+/check
 tmp
 temp
 tmp.*
@@ -12,11 +13,13 @@ temp.*
 *.tern-project*
 *.editorconfig*
 *.eslintrc*
+jest.config*
 .git*
 /.travis.yml
 /appveyor.yml
 /circle.yml
 /sh
+/coverage
 docs
 yarn.lock
 package-lock.json
